@@ -5,7 +5,7 @@ Currently I am working at IBM CIC Italy and in my free time I like to program an
 
 ## 💪🏽 Skills
 
-I am very curious and I like to try out different things, so I have worked with different technologies and languages since I started programming. The technologies/languages that I know most (in order of kwnoledge):
+I am very curious and I like to try out different things, so I have worked with different technologies and languages since I started programming. The technologies/languages that I know most (in order of knowledge):
 <ol>
   <li>Python</li>
   <li>Flutter</li>
