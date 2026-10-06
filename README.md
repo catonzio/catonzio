@@ -15,6 +15,10 @@ I am very curious and I like to try out different things, so I have worked with 
   <li>Javascript</li>
 </ol>
 
+## Most used languages
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=catonzio&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=catonzio&langs_count=5&theme=dark_github)
+
 ## 👋 Contact me
 📧 email: <a href="mailto:danilocatone@gmail.com">danilocatone@gmail.com</a>
 🧑🏽‍💻 linkedin: <a href="https://www.linkedin.com/in/danilo-catone-660aa1174/">Danilo Catone</a>
