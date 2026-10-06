@@ -21,7 +21,7 @@ I am very curious and I like to try out different things, so I have worked with 
 
 ## 📊 Github Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catonzio&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=catonzio)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **catonzio/catonzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
